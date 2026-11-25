@@ -100,5 +100,5 @@ MIT. See [LICENSE](LICENSE).
 ## Related
 
 - [webhook-inspector](https://github.com/0xelitesystem/webhook-inspector), local webhook receiver via Service Worker
-- [cron-builder](https://github.com/0xelitesystem/cron-builder), visual cron expression builder
+- [cron-next-runs-builder](https://github.com/0xelitesystem/cron-next-runs-builder), visual cron expression builder
 - [single-file-saas-template](https://github.com/0xelitesystem/single-file-saas-template), ship a SaaS in one HTML file
