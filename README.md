@@ -1,8 +1,8 @@
-# csp-builder
+# csp-header-visual-builder
 
 Build Content-Security-Policy headers visually. Pick directives, toggle keywords, add custom hosts, copy as a header / meta tag / Express snippet. Single HTML file. Browser-only.
 
-**Live demo:** https://0xelitesystem.github.io/csp-builder/
+**Live demo:** https://0xelitesystem.github.io/csp-header-visual-builder/
 
 ## Why this exists
 
@@ -14,7 +14,7 @@ It is a single HTML file with no tracking and no network calls, and it is MIT li
 
 ## Use
 
-Open `index.html` in any browser, or visit the hosted demo at `https://0xelitesystem.github.io/csp-builder/` once Pages is enabled.
+Open `index.html` in any browser, or visit the hosted demo at `https://0xelitesystem.github.io/csp-header-visual-builder/` once Pages is enabled.
 
 1. Five sensible defaults are pre-checked: `default-src 'self'`, `script-src 'self'`, `style-src 'self'`, `img-src 'self'`, `connect-src 'self'`.
 2. Tweak each directive: toggle keywords, paste extra hosts (space-separated).
@@ -79,8 +79,8 @@ Everything runs in your browser. The page makes no network requests, loads no ex
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/csp-builder
-cd csp-builder
+git clone https://github.com/0xelitesystem/csp-header-visual-builder
+cd csp-header-visual-builder
 ```
 
 Then open `index.html` in any modern browser, or serve the folder with `python -m http.server` and visit http://localhost:8000/.
